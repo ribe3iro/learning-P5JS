@@ -11,16 +11,16 @@ function draw(){
 	translate(width/4, height/2);
 	background(0);
 	for(let a = angle + TWO_PI; a >= angle; a-=0.01){
-		let x = radius * sin(2*a);
-		let y = radius * sin(a);
+		let x = radius * cos(a);      // ALTERE AQUI!!!
+		let y = radius * sin(3*a);    // ALTERE AQUI!!!
 		//y += radius * sin(a) * sin(a);
 		stroke(map(a, angle, angle + TWO_PI, 255, 0));
 		strokeWeight(3);
 		point(x, y);
 	}
 
-	let x = radius * sin(2*angle);
-	let y = radius * sin(angle);
+	let x = radius * cos(angle);     // ALTERE AQUI!!!
+	let y = radius * sin(3*angle);   // ALTERE AQUI!!!
 	//y += radius * sin(angle) * sin(angle);
 	stroke(0,255,0);
 	strokeWeight(5);
