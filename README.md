@@ -70,3 +70,9 @@ Células carnívoras:
 Obs.:  
 - Se não comerem por um certo tempo, as células morrem de fome
 - No conflito entre 2 células, vence a que tiver maior tamanho
+
+ # <a href="https://github.com/ribe3iro/P5JS/tree/main/smart-cars">Smart Cars</a>
+### Algoritmo genético que treina populações de carros para alcançar um alvo
+Múltiplas populações de carros são geradas com características aleatórias. Ao final do tempo de vida, cada população elege um melhor carro usando parâmetros como menor distância do alvo e maior distância dos obstáculos.  
+As características desse melhor carro são copiadas para os demais, que sofrem pequenas mutações.  
+Conforme as gerações passam, os carros com melhores características vão sendo selecionados e o desempenho das próximas gerações é aprimorado.
