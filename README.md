@@ -34,12 +34,6 @@ Experiência simples pra continuar treinando "Perlin Noise".
 O objetivo era visualizar um pouco o comportamento das funções seno e cosseno alterando os argumentos dentro do código.  
 Se ficar interessando, recomendo testar diferentes argumentos nos lugares sinalizados no código.
   
-# <a href="https://github.com/ribe3iro/P5JS/tree/main/noisy-pixels">Noisy Pixels</a>
-### Geração de gifs manipulando pixels de imagens
-O objetivo era praticar um pouco a manipulação dos vetores de pixels de imagens.  
-Nesse projeto, uma imagem de escolha do usuário é dividida em grids, que são embaralhados e reordenados.  
-É possível alterar a variável global "SAVE" dentro do código para "true" para fazer o download de cada um dos frames que animam a primeira reordenação. (Possibilitando ao usuário gerar um gif utilizando alguma ferramenta externa).
-
 # <a href="https://github.com/ribe3iro/P5JS/tree/main/steering">Steering</a>
 ### Simula uma espécie de perseguição mais orgânica e realista
 O objetivo era fazer a bola seguir o mouse de uma maneira menos "dura" e robotizada.  
