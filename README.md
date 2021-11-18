@@ -2,6 +2,13 @@
 Alguns códigos em P5.js.  
 Programei essas simulações simples enquanto estudava esse tema pela primeira vez.  
 
+# Como usar
+Para testar os códigos, fazer alterações, visualizar as simulações, etc, basta:
+- Baixar os <a href='https://github.com/ribe3iro/learning-P5JS/archive/refs/heads/main.zip'>projetos aqui</a>
+- Descompactar o arquivo
+- Navegar pelas pasta, escolhendo o projeto que deseja testar
+- Abrir o arquivo <b>index.html</b> relativo ao projeto que deseja ver em seu navegador
+
 # Temas abordados em cada simulação
 ### As descrições a seguir estão em ordem de complexidade, do projeto mais simples até o mais complexo. Assim, é possível perceber uma cronologia no aprendizado dos conceitos.
 
