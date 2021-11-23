@@ -6,7 +6,7 @@ Programei essas simulações simples enquanto estudava esse tema pela primeira v
 Para testar os códigos, fazer alterações, visualizar as simulações, etc, basta:
 - Baixar os <a href='https://github.com/ribe3iro/learning-P5JS/archive/refs/heads/main.zip'>projetos aqui</a>
 - Descompactar o arquivo
-- Navegar pelas pasta, escolhendo o projeto que deseja testar
+- Navegar pelas pastas, escolhendo o projeto que deseja testar
 - Abrir o arquivo <b>index.html</b> relativo ao projeto que deseja ver em seu navegador
 
 # Temas abordados em cada simulação
